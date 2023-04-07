@@ -1,0 +1,21 @@
+.text-center {
+    width: 100%;
+    text-align: center;
+    position: relative;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    background-color: #7ac043;
+  }
+
+.text-center img {
+    display: inline-block;
+    vertical-align: middle;
+  }
+
+.row {
+  display: flex;
+  margin-left: 115px;
+  margin-right: 115px;
+  border: 1px solid red;
+}  
